@@ -1,3 +1,11 @@
 .flex{
     display: flex;
 }
+
+.icon-bar a{
+    text-align: center;
+    padding: 16px;
+    font-size: 36px;
+    color: white;
+    transition: all 0.3s ease;
+}
