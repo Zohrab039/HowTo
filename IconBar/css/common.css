@@ -20,6 +20,10 @@
     background-color: #000;
 }
 
+.icon-bar a:active{
+    background: #04AA6D;
+}
+
 .vertical h1{
     font-family: sans-serif;
     font-weight: 600;
