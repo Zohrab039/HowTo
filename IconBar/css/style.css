@@ -1,9 +1,11 @@
+.icons{
+    justify-content: space-around;
+}
+
 .vertical .icon-bar{
     margin-top: 32px;
-    margin-left: 32px;
 }
 
 .vertical h1{
     margin-top: 32px;
-    margin-left: 32px;
 }
