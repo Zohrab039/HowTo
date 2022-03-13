@@ -6,3 +6,12 @@
     background: var(--success-bc);
     color: white;
 }
+
+.info{
+    border: 2px solid var(--success-bc);
+    color: black;
+}
+.info:hover{
+    background: var(--info-bc);
+    color: white;
+}
