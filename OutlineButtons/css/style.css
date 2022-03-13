@@ -1,0 +1,8 @@
+.success{
+    border: 2px solid var(--success-bc);
+    color: black;
+}
+.success:hover{
+    background: var(--success-bc);
+    color: white;
+}
