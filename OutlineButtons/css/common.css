@@ -2,6 +2,19 @@ body{
     background: black;
 }
 
+:root{
+    --success-bc: #04AA6D;
+    --success-h: #46a049;
+    --info-bc: #2196F3;
+    --info-h: #0b7dda;
+    --warning-bc: #ff9800;
+    --warning-h: #e68a00;
+    --danger-bc: #f44336;
+    --danger-h: #da190b;
+    --default-bc: #e7e7e7;
+    --default-h: #ddd;
+}
+
 .buttons{
     margin-left: 29%;
     margin-top: 20%;
