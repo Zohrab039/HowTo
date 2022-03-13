@@ -1,4 +1,6 @@
 .success{
     background: var(--success-bc);
-    
+}
+.success:hover{
+    background: var(--success-h);
 }
