@@ -1,9 +1,6 @@
 body{
     background: black;
 }
-.flex{
-    display: flex;
-}
 
 :root{
     --success-bc: #04AA6D;
