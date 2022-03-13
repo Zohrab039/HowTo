@@ -1,17 +1,35 @@
 .success{
     border: 2px solid var(--success-bc);
-    color: black;
 }
 .success:hover{
     background: var(--success-bc);
-    color: white;
 }
 
 .info{
-    border: 2px solid var(--success-bc);
-    color: black;
+    border: 2px solid var(--info-bc);
 }
 .info:hover{
     background: var(--info-bc);
-    color: white;
+}
+
+.warning{
+    border: 2px solid var(--warning-bc);
+}
+.warning:hover{
+    background: var(--warning-bc);
+}
+
+.danger{
+    border: 2px solid var(--danger-bc);
+}
+.danger:hover{
+    background: var(--danger-h);
+}
+
+.default{
+    border: 2px solid var(--default-bc)
+}
+.default:hover{
+    background: var(--default-h);
+    color: black !important;
 }
