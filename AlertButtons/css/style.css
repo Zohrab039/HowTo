@@ -7,33 +7,34 @@
 }
 
 .info{
-
+    background: var(--info-bc);
 }
 
 .info:hover{
-
+    background: var(--info-h);
 }
 
 .warning{
-
+    background: var(--warning-bc);
 }
 
 .warning:hover{
-
+    background: var(--warning-h);
 }
 
 .danger{
-
+    background: var(--danger-bc);
 }
 
 .danger:hover{
-
+    background: var(--danger-h);
 }
 
 .default{
-
+    background: var(--default-bc);
+    color: black !important;
 }
 
 .default:hover{
-    
+    background: var(--default-h);
 }
