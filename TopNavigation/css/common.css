@@ -1,3 +1,6 @@
+.flex{
+    display: flex;
+}
 :root{
     --nav-bar-bc: #333;
     --nav-bar-color: #f2f2f2;
