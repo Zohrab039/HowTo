@@ -13,6 +13,12 @@
     float: left;
 }
 
+.nav-bar a:hover{
+    background: var(--nav-bar-h);
+    color: var(--nav-bar-bc);
+}
+
 .nav-bar a:active{
     background: var(--nav-bar-a);
+    color: var(--nav-bar-color);
 }
