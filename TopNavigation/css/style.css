@@ -2,3 +2,8 @@
     background: var(--nav-bar-bc);
     overflow: hidden;
 }
+
+a{
+    color: var(--nav-bar-color);
+    text-decoration: none;
+}
