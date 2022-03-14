@@ -12,3 +12,7 @@
     text-align: center;
     float: left;
 }
+
+.nav-bar a:active{
+    background: var(--nav-bar-a);
+}
