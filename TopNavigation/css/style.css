@@ -3,7 +3,8 @@
     overflow: hidden;
 }
 
-a{
+.nav-bar a{
     color: var(--nav-bar-color);
     text-decoration: none;
+    padding: 14px 16px;
 }
