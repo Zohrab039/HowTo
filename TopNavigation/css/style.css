@@ -11,14 +11,17 @@
     font-family: sans-serif;
     text-align: center;
     float: left;
+    transition: all .3s ease;
 }
 
 .nav-bar a:hover{
     background: var(--nav-bar-h);
     color: var(--nav-bar-bc);
+    transition: all .3s ease;
 }
 
 .nav-bar a:active{
     background: var(--nav-bar-a);
     color: var(--nav-bar-color);
+    transition: all .3s ease;
 }
