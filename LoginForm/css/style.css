@@ -1,9 +1,12 @@
 .nav-bar{
     background: var(--bg-main);
+    height: 53px;
 }
 
 .nav-bar a{
     padding: 14px 16px;
     font-size: 17px;
     font-family: Verdana, sans-serif;
+    margin-top: 10px;
+    text-decoration: none;
 }
