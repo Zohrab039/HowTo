@@ -1,9 +1,9 @@
-.nav-bar{
+.nav-bar {
     background: var(--bg-main);
     padding: 14px 16px;
 }
 
-.nav-bar a{
+.nav-bar a {
     font-size: 17px;
     font-family: Verdana, sans-serif;
     margin-top: 10px;
@@ -12,11 +12,34 @@
     padding: 14px 16px;
 }
 
-.nav-bar a:hover{
+.nav-bar a:hover {
     background: var(--bg-hover);
 }
 
-.nav-bar a:active{
+.nav-bar a:active {
     background: var(--bg-active);
     color: white;
+}
+
+.nav-bar input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    width: 150px;
+}
+
+.nav-bar .login-container button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: var(--bg-hover);
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.nav-bar .login-container button:hover {
+    background: #ccc;
 }
