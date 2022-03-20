@@ -15,3 +15,8 @@
 .nav-bar a:hover{
     background: var(--bg-hover);
 }
+
+.nav-bar a:active{
+    background: var(--bg-active);
+    color: white;
+}
