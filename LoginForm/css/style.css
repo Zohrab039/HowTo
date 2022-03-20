@@ -11,3 +11,7 @@
     color: black;
     padding: 14px 16px;
 }
+
+.nav-bar a:hover{
+    background: var(--bg-hover);
+}
