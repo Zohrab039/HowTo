@@ -21,6 +21,11 @@
     color: white;
 }
 
+.login-container{
+    float: right;
+    margin-top: -15px;
+}
+
 .nav-bar input[type=text] {
     padding: 6px;
     margin-top: 8px;
@@ -34,7 +39,7 @@
     padding: 6px;
     margin-top: 8px;
     margin-right: 16px;
-    background: var(--bg-hover);
+    background: #555555;
     font-size: 17px;
     border: none;
     cursor: pointer;
