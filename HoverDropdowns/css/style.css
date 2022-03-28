@@ -3,12 +3,20 @@
     display: inline-block;
 }
 
+.dropdown:hover .dropdown-items{
+    display: block;
+}
+
 .dropbtn{
-    background: var(--btn-color);
+    background: var(--btn-bg);
     color: white;
     padding: 16px;
     font-size: 16px;
     border: none;
+}
+
+.dropbtn:hover{
+    background: var(--btn-bg-h);
 }
 
 .dropdown-items{
@@ -29,8 +37,4 @@
 
 .dropdown-items a:hover{
     background: var(--dropdown-item-bg-h);
-}
-
-.dropdown:hover .dropdown-items{
-    display: block;
 }
