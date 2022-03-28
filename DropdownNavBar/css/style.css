@@ -45,6 +45,10 @@
     text-align: left;
 }
 
+.dropdown:hover .dropdown-items{
+    display: block;
+}
+
 .nav-bar a:hover,
 .dropdown:hover .dropbtn {
     background: red;
