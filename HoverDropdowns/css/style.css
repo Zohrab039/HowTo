@@ -15,10 +15,12 @@
     padding: 16px;
     font-size: 16px;
     border: none;
+    transition: all .3s ease;
 }
 
 .dropbtn:hover{
     background: var(--btn-bg-h);
+    transition: all .3s ease;
 }
 
 .dropdown-items{
