@@ -26,3 +26,7 @@
     text-decoration: none;
     display: block;
 }
+
+.dropdown-items a:hover{
+    background: var(--dropdown-item-bg-h);
+}
