@@ -49,6 +49,10 @@
     display: block;
 }
 
+.dropdown-items a:hover{
+    background: var(--dropdown-item-bg-a) !important;
+}
+
 .nav-bar a:hover,
 .dropdown:hover .dropbtn {
     background: red;

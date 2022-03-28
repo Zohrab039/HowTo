@@ -5,4 +5,5 @@ body{
 :root{
     --main-bg: #333;
     --dropdown-item-bg: #f9f9f9;
+    --dropdown-item-bg-a: #ddd;
 }
