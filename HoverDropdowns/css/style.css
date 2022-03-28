@@ -30,3 +30,7 @@
 .dropdown-items a:hover{
     background: var(--dropdown-item-bg-h);
 }
+
+.dropdown:hover .dropdown-items{
+    display: block;
+}
