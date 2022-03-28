@@ -1,0 +1,8 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root{
+    --main-bg: #333;
+    --dropdown-item-bg: #f9f9f9;
+}
