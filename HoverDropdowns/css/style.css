@@ -10,3 +10,8 @@
     font-size: 16px;
     border: none;
 }
+
+.dropdown-items{
+    position: absolute;
+    display: none;
+}
