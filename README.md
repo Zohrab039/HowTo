@@ -2,3 +2,11 @@
 <div align="center">
   <img src="Images/How-to.jpg">
 </div>
+
+<hr>
+
+<h3 align='center'>Alert buttons</h3>
+
+<div align="center">
+  <img src="Images/alert-btn.png">
+</div>
